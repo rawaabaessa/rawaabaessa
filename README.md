@@ -8,10 +8,10 @@
 
 ## 📈 GitHub Stats
 
-![Rawaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Rawaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawaabaessa&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
 - Email: rawaabaessa@gmail.com  
-- LinkedIn: ![rawaabaessa](https://www.linkedin.com/in/rawaa-baessa-28a658274/)
-- instagram: ![@rawaa_mhmd](https://www.instagram.com/rawaa_mhmd?igsh=MWkyZ3lrMTVkenBxdg==)
+- LinkedIn: [rawaabaessa](https://www.linkedin.com/in/rawaa-baessa-28a658274/)
+- Instagram: [@rawaa_mhmd](https://www.instagram.com/rawaa_mhmd?igsh=MWkyZ3lrMTVkenBxdg==)
